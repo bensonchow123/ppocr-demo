@@ -18,6 +18,7 @@ https://github.com/PFCCLab/PPOCRLabel
 
 Hightlight poorly recognised words and the labeling program will crop it  
 Then manually annotate the poorly recognised words
+Need at least 500 examples to fix a issue (e.g. cursive)
 
 The program will create a:
 - `/crop_img` directory
