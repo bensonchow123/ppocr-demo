@@ -17,7 +17,7 @@ https://paddlepaddle.github.io/PaddleX/latest/en/data_annotations/ocr_modules/te
 https://github.com/PFCCLab/PPOCRLabel
 
 Hightlight poorly recognised words and the labeling program will crop it  
-Then manually annotate the poorly recognised words
+Then manually annotate the poorly recognised words  
 Need at least 500 examples to fix a issue (e.g. cursive)
 
 The program will create a:
