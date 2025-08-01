@@ -38,13 +38,13 @@ wget https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_mode
 ```
 
 ## 4.2 Model Training
-
+### 4.2.1 Training preparation
 Download the yaml configureration file for the PP-OCRv5_server_rec recognition model:  
 https://github.com/PaddlePaddle/PaddleOCR/blob/main/configs/rec/PP-OCRv5/PP-OCRv5_server_rec.yml
 
 Edit the yml file point to the dataset created.
 
-### 4.2.1 Begin training
+### 4.2.2 Begin training
 
 Git clone the ppocr repo  
 Run the command below, cause we have 3 GPUs:
