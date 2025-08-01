@@ -1,6 +1,6 @@
 # PaddleOCR Document Processing Project
 
-This project uses PaddleOCR for optical character recognition (OCR) on PDF documents. The workflow includes converting PDFs to images and processing them with PaddleOCR to extract text and generate visualizations.
+This project uses PaddleOCR for AI powered optical character recognition (OCR) on PDF documents. The workflow includes converting PDFs to images and processing them with PaddleOCR to extract text and generate visualizations.
 
 ## Project Structure
 
