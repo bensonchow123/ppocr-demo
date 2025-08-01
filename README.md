@@ -107,6 +107,3 @@ Key Python packages:
 ## Next Steps
 
 - Fine-tune the recognition module for better accuracy on your specific document types
-- Expand processing to handle multiple pages per PDF
-- Implement batch processing optimizations
-- Add text post-processing and validation features
