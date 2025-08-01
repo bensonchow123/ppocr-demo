@@ -8,7 +8,6 @@ This project uses PaddleOCR for AI powered optical character recognition (OCR) o
 paddleocr/
 ├── pdf-examples/           # Input PDF files
 ├── output/                 # OCR results and visualizations
-├── input-examples/         # Additional input examples (empty)
 ├── pdf-to-png.py          # Converts first page of PDFs to PNG
 ├── read-first-page.py     # OCR processing of PDF first pages
 ├── fine-tune-rec-module.md # Documentation for fine-tuning
