@@ -1,4 +1,4 @@
-# PaddleOCR Fine-tuning Documentation
+# PaddleOCR Fine-tuning recognition module documentation
 
 ## Reference Documentation
 
