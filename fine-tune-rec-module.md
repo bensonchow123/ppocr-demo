@@ -1,5 +1,6 @@
 # PaddleOCR Fine-tuning recognition module documentation
 
+Customised documentation for fine tuning the recognition module on the 3x 5080 server.
 ## Reference Documentation
 
 **Fine tune docs:**  
